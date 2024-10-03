@@ -1,0 +1,2 @@
+learning game dev and networking, this game is supposed to be a remake of containment breach but with a modern engine which makes more compatible with systems and should not occur errors unlike the Multiplayer containment breach. its also meant to have a similar gameplay of SL andd less of the buggy old mechanics.
+its all being done by one dev and a dev that has no prior experience, ambicious project but i want to learn and see how far i can go. this will be a huge jump for next projects
